@@ -15,3 +15,5 @@ Imports:
 Suggests: 
     gitcreds,
     usethis
+URL: https://github.com/nielsbock/AdvancedR3
+BugReports: https://github.com/nielsbock/AdvancedR3/issues
